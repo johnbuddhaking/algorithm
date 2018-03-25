@@ -1,2 +1,2 @@
 # algrithm
-The code implementation of some algrithms about Machine Learning
+The code implementation of some algorithms about Machine Learning
